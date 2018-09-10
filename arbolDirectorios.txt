@@ -43,3 +43,35 @@
 └── README.md
 
 23 directories, 19 files
+.
+├── arbolDirectorios.txt
+├── ejercicios
+│   ├── bash
+│   │   ├── buscador.sh
+│   │   ├── gen_carpetas.sh
+│   │   └── mensajes.sh
+│   ├── build
+│   │   └── icc
+│   │       ├── operadores
+│   │       │   └── Main.class
+│   │       ├── stdin
+│   │       │   └── Main.class
+│   │       └── stdout
+│   │           └── Main.class
+│   └── src
+│       └── icc
+│           ├── stdin
+│           └── stdout
+├── miscelanea
+│   ├── comadosJDK.txt
+│   ├── gitconfig.md
+│   └── historial_14-08.txt
+├── practicas
+│   ├── build
+│   ├── resources
+│   │   └── hist_comandos.txt
+│   └── src
+│       └── icc
+└── README.md
+
+17 directories, 12 files
