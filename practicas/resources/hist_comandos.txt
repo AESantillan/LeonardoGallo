@@ -1,0 +1,10 @@
+ 1699  nano script.sh 
+ 1700  shutdown now
+ 1701  cd Documents/s2019-1/LeonardoGallo/
+ 1702  nano miscelanea/comadosJDK.txt 
+ 1703  history | grep his_comandos
+ 1704  history | grep history
+ 1705  history | grep >>
+ 1706  history | grep ">>"
+ 1707  history 10
+ 1708  history 10 >> hist_comandos.txt

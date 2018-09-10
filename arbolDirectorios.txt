@@ -1,0 +1,45 @@
+.
+├── arbolDirectorios.md
+├── ejercicios
+│   ├── bash
+│   │   ├── buscador.sh
+│   │   ├── gen_carpetas.sh
+│   │   └── mensajes.sh
+│   ├── build
+│   │   └── icc
+│   │       ├── operadores
+│   │       │   └── Main.class
+│   │       ├── stdin
+│   │       │   └── Main.class
+│   │       └── stdout
+│   │           └── Main.class
+│   └── src
+│       └── icc
+│           ├── operadores
+│           │   ├── Main.java
+│           │   └── UsoOperador.java
+│           ├── stdin
+│           │   └── Main.java
+│           └── stdout
+│               └── Main.java
+├── miscelanea
+│   ├── comadosJDK.txt
+│   ├── gitconfig.md
+│   └── historial_14-08.txt
+├── practicas
+│   ├── build
+│   │   └── icc
+│   │       └── practica04
+│   │           └── Main.class
+│   ├── resources
+│   │   └── hist_comandos.txt
+│   └── src
+│       └── icc
+│           ├── practica02
+│           │   └── Main.java
+│           ├── practica03
+│           └── practica04
+│               └── Main.java
+└── README.md
+
+23 directories, 19 files
