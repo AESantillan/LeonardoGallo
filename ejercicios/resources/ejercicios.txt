@@ -1,0 +1,3 @@
+1. Programa que saluda, pregunta el nombre al usuario y dirigiéndose
+al usuario por su nombre dice algo referente.
+
